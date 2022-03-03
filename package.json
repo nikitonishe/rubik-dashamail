@@ -1,7 +1,7 @@
 {
   "name": "rubik-dashamail",
   "version": "1.0.0",
-  "main": "app.js",
+  "main": "classes/Dashamail.js",
   "repository": "git@github.com:nikitonishe/rubik-dashamail.git",
   "author": "nikitandr <ns@indotech.ru>",
   "license": "MIT",
